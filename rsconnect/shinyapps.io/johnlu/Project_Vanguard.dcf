@@ -1,0 +1,13 @@
+name: Project_Vanguard
+title: Project_Vanguard
+username:
+account: johnlu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3049211
+bundleId: 3758761
+url: https://johnlu.shinyapps.io/Project_Vanguard/
+when: 1603120667.01961
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: draft.R|graph1.png|graph2.png|graph3.png|returns.csv
